@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @eleberet
-- 👀 I’m interested in js
-- 🌱 I’m currently learning js/react
 - 📫 How to reach me telegram: eleberet
 
 <!---
